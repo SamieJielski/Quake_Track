@@ -1,5 +1,5 @@
 //dug v3.1 - detect PIR sensor High, play random WAV. repeat to infinity. and beyond.
-//found at http://forum.arduino.cc/index.php?topic=43329.0 by user Goat Boy
+//found at http://forum.arduino.cc/index.php?topic=43329.0 by user Goat Boy- edited for different sensor
 
 
 
