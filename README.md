@@ -9,6 +9,6 @@ You will need:
 1 Adafruit Wave Shield kit 
 1 8ohm Speaker
 2 Short Wires 
-1 MEAS vibration sensor 
+1 MEAS Vibration Sensor 
 1 9V Battery 
 1 Formatted 4GB SD Card
