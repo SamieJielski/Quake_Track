@@ -23,3 +23,10 @@ You will need:
 1 MEAS Vibration Sensor 
 1 9V Battery or 9V Wall Adaptor
 1 Formatted 4GB SD Card
+1 Enclosure
+( I used milled DibBond - wood, foamcore, plastic would all work aswell)
+
+Instructions for assembling and soldering wave shield:
+https://learn.adafruit.com/adafruit-wave-shield-audio-shield-for-arduino/solder
+
+Photos of completed electronic assembly within directory. 
